@@ -1,0 +1,2 @@
+"# raed-tp"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/DO22X/raed-tp.gitgit push -u origin main
+"# raed-tp"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/DO22X/raed-tp.gitgit push -u origin main
